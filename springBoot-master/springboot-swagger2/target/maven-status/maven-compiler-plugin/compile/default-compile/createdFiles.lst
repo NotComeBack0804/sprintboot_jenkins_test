@@ -1,0 +1,4 @@
+cn\huanzi\qch\springbootswagger2\SpringbootSwagger2Application.class
+cn\huanzi\qch\springbootswagger2\config\SwaggerConfig.class
+cn\huanzi\qch\springbootswagger2\vo\UserVo.class
+cn\huanzi\qch\springbootswagger2\controller\UserController.class
